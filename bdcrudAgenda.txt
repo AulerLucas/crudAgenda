@@ -1,0 +1,12 @@
+===Base de Dados crudsimples
+
+== Estrutura da tabela contatos
+
+|------
+|Coluna|Tipo|Nulo|Predefinido
+|------
+|//**id**//|int(11)|Não|
+|nome|varchar(45)|Não|
+|email|varchar(45)|Não|
+|celular|varchar(15)|Sim|NULL
+== Extraindo dados da tabela contatos
