@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    background-image: url("img.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+img{
+    opacity: 0.6;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.box {
+    width: 600px;
+    height: 600px;
+}
+
+.table {
+    width: 800px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
